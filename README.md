@@ -27,3 +27,11 @@ A telepítéssel elfogadod a [használat feltételeit](#licensz) és az [adatvé
 ## Mit tud?
 
 Na tippelj egyet, valószínűleg lekvárt főz, nem pedig megjelenít az üzenetek oldalon egy "Read all" feliratú gombot amit megnyomva olvasottnak jelöl minden olvasatlan üzenetet.
+
+## Licensz
+
+A programra az **[MIT License](http://opensource.org/licenses/MIT)** feltételei vonatkoznak, vagyis lényegében azt csinálsz vele, amit akarsz: szabadon használhatod, továbbadhatod, módosíthatod, és így tovább, viszont mindezt a **saját felelősségedre** teszed.
+
+## Adatvédelmi nyilatkozat
+
+A szkript **nem továbbít személyes adatokat külső szerverre**, bárminemű személyesadat-feldolgozás kizárólag a böngésződben, a saját gépeden történik.
