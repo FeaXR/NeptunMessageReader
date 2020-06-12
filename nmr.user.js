@@ -2,7 +2,7 @@
 // @name         Neptun Message Reader
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  try to take over the world!
+// @description  try to take over the world or read some messages!
 // @author       Krachi9
 // @match        https://frame.neptun.bme.hu/hallgatoi/main.aspx?ismenuclick=true&ctrl=inbox
 // @grant        none
