@@ -5,9 +5,10 @@
 // @description  try to take over the world or read some messages!
 // @author       Krachi9
 // @match        https://frame.neptun.bme.hu/hallgatoi/main.aspx?ismenuclick=true&ctrl=inbox
+// @match        https://frame.neptun.bme.hu/hallgatoi/main.aspx
 // @downloadURL  https://github.com/krachi9/NeptunMessageReader/raw/master/nmr.user.js// 
-// @require        https://greasemonkey.github.io/gm4-polyfill/gm4-polyfill.js
-// @require        https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js
+// @require      https://greasemonkey.github.io/gm4-polyfill/gm4-polyfill.js
+// @require      https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js
 // ==/UserScript==
 
 (function() {
