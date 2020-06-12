@@ -28,6 +28,10 @@ A telepítéssel elfogadod a [használat feltételeit](#licensz) és az [adatvé
 
 Na tippelj egyet, valószínűleg lekvárt főz, nem pedig megjelenít az üzenetek oldalon egy "Read all" feliratú gombot amit megnyomva olvasottnak jelöl minden olvasatlan üzenetet.
 
+## Egyéb
+
+Ha esetleg valaki nem ismeri, a [Neptun PowerUp!](https://github.com/solymosi/npu) scriptet is érdemes letölteni és használni.
+
 ## Licensz
 
 A programra az **[MIT License](http://opensource.org/licenses/MIT)** feltételei vonatkoznak, vagyis lényegében azt csinálsz vele, amit akarsz: szabadon használhatod, továbbadhatod, módosíthatod, és így tovább, viszont mindezt a **saját felelősségedre** teszed.
@@ -35,7 +39,3 @@ A programra az **[MIT License](http://opensource.org/licenses/MIT)** feltételei
 ## Adatvédelmi nyilatkozat
 
 A szkript **nem továbbít személyes adatokat külső szerverre**, bárminemű személyesadat-feldolgozás kizárólag a böngésződben, a saját gépeden történik.
-
-## Egyéb
-
-Ha esetleg valaki nem ismeri, a [Neptun PowerUp!](https://github.com/solymosi/npu) scriptet is érdemes letölteni és használni.
