@@ -26,5 +26,4 @@ A telepítéssel elfogadod a [használat feltételeit](#licensz) és az [adatvé
 
 ## Mit tud?
 
-Na tippelj egyet, valószínűleg lekvárt főz. 
-Az üzenetek oldalon megjelenít egy "Read all" feliratú gombot amit megnyomva olvasottnak jelöl minden olvasatlan üzenetet.
+Na tippelj egyet, valószínűleg lekvárt főz, nem pedig megjelenít az üzenetek oldalon egy "Read all" feliratú gombot amit megnyomva olvasottnak jelöl minden olvasatlan üzenetet.
