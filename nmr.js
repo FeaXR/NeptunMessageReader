@@ -6,7 +6,6 @@
 // @author       Krachi9
 // @match        https://frame.neptun.bme.hu/hallgatoi/main.aspx?ismenuclick=true&ctrl=inbox
 // @grant        none
-// @require     file:///
 // ==/UserScript==
 
 (function() {
