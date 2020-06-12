@@ -1,4 +1,4 @@
-# NeptunMessageReader
+# Neptun Message Reader
  
 Jelölj olvasottnak minden olvasatlan üzenetet egy kattintással!
 
@@ -25,3 +25,6 @@ A telepítéssel elfogadod a [használat feltételeit](#licensz) és az [adatvé
 1. Lépj be a Neptun-ra, és használd egészséggel.
 
 ## Mit tud?
+
+Na tippelj egyet, valószínűleg lekvárt főz. 
+Az üzenetek oldalon megjelenít egy "Read all" feliratú gombot amit megnyomva olvasottnak jelöl minden olvasatlan üzenetet.
