@@ -35,3 +35,7 @@ A programra az **[MIT License](http://opensource.org/licenses/MIT)** feltételei
 ## Adatvédelmi nyilatkozat
 
 A szkript **nem továbbít személyes adatokat külső szerverre**, bárminemű személyesadat-feldolgozás kizárólag a böngésződben, a saját gépeden történik.
+
+## Egyéb
+
+Ha esetleg valaki nem ismeri, a [Neptun PowerUp!](https://github.com/solymosi/npu) scriptet is érdemes letölteni és használni.
