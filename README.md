@@ -1,11 +1,11 @@
 # NeptunMessageReader
  
-A program **felturbózza a Neptun-odat**: gyorsabb tárgy- és vizsgafelvétel, kidobás elleni védelem, automatikus belépés, könnyebben kezelhető felület, tárolható belépési adatok, és még sok más. 25 egyetem és főiskola **több mint 15 ezer** diákjának életét könnyíti meg már 2011 óta.
+Jelölj olvasottnak minden olvasatlan üzenetet egy kattintással!
 
 ## Legújabb verzió
 
-* Legfrissebb verzió: **1.52.9**
-* Kiadás dátuma: **2020. június 10.**
+* Legfrissebb verzió: **0.1**
+* Kiadás dátuma: **2020. június 12.**
 
 Ha tudod, mit csinálsz, [kattints ide a telepítéshez](https://github.com/krachi9/NeptunMessageReader/raw/master/nmr.user.js).<br>
 Egyébként olvasd el lent a telepítési útmutatót.
