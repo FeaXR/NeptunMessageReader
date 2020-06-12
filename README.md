@@ -4,7 +4,7 @@ Jelölj olvasottnak minden olvasatlan üzenetet egy kattintással!
 
 ## Legújabb verzió
 
-* Legfrissebb verzió: **0.1**
+* Legfrissebb verzió: **0.2**
 * Kiadás dátuma: **2020. június 12.**
 
 Ha tudod, mit csinálsz, [kattints ide a telepítéshez](https://github.com/krachi9/NeptunMessageReader/raw/master/nmr.user.js).<br>
