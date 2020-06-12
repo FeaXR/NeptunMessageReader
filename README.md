@@ -12,7 +12,7 @@ Egyébként olvasd el lent a telepítési útmutatót.
 
 ## Telepítés
 
-A szkript jelenleg a **Firefox**,  **Chrome** és **Microsoft Edge** böngészőkre telepíthető.<br>
+A szkript jelenleg a **Firefox**,  **Chrome** és **Microsoft Edge** böngészőkre telepíthető, de az egyes böngésző verziókon a telepítés kis hozzáértést igényelhet, és a működést nem tudom garantálni.<br>
 A telepítéssel elfogadod a [használat feltételeit](#licensz) és az [adatvédelmi nyilatkozatot](#adatvédelmi-nyilatkozat).
 
 1. Telepítsd a **TamperMonkey** kiegészítőt az alábbi oldalak egyikéről:
