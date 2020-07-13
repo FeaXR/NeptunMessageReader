@@ -4,8 +4,8 @@ Jelölj olvasottnak minden olvasatlan üzenetet egy kattintással!
 
 ## Legújabb verzió
 
-* Legfrissebb verzió: **0.3**
-* Kiadás dátuma: **2020. június 12.**
+* Legfrissebb verzió: **0.4**
+* Kiadás dátuma: **2020. július 13.**
 
 Ha tudod, mit csinálsz, [kattints ide a telepítéshez](https://github.com/krachi9/NeptunMessageReader/raw/master/nmr.user.js).<br>
 Egyébként olvasd el lent a telepítési útmutatót.
@@ -27,6 +27,10 @@ A telepítéssel elfogadod a [használat feltételeit](#licensz) és az [adatvé
 ## Mit tud?
 
 Na tippelj egyet, valószínűleg lekvárt főz, nem pedig megjelenít az üzenetek oldalon egy "Read all" feliratú gombot amit megnyomva olvasottnak jelöl minden olvasatlan üzenetet.
+
+## Újdonságok
+
+Angol és német nyelv támogatása
 
 ## Egyéb
 
